@@ -64,6 +64,7 @@ List all active loans.
 - LoanManager: Handles book checkouts and returns.
 - Program: Serves as the main entry point.
 
+## Contact
 Faizal Sapuri
 faizal20004@gmail.com
 
